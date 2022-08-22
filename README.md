@@ -42,6 +42,6 @@ src="https://img.shields.io/twitch/status/vaggostv?logo=twitchsx&style=for-the-b
 
 <a href="https://github.com/vaggos-thanos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaggos-thanos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img href="https://raw.githubusercontent.com/vaggos-thanos/vaggos-thanos/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/vaggos-thanos/vaggos_thanos/actions/workflows/snake.svg" alt="Snake animation" />
 
 ###
